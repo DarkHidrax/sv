@@ -1,0 +1,4 @@
+"models/gman.mdl" "models/blackops/gman.mdl"
+"models/hassassin.mdl" "models/blackops/hassassin.mdl"
+"models/hassassinf.mdl" "models/blackops/hassassin.mdl"
+"models/massnf.mdl" "models/massn.mdl"
